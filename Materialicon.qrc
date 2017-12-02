@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Materialicon/Materialicon.qml</file>
+        <file>Materialicon/MaterialiconLoader.qml</file>
+        <file>Materialicon/Materialicons.ttf</file>
+        <file>Materialicon/Materialicons.js</file>
+        <file>Materialicon/qmldir</file>
+    </qresource>
+</RCC>
